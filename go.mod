@@ -1,4 +1,4 @@
-module learing/goframe/xiang
+module github.com/42maojin/xiang
 
 go 1.21.6
 
